@@ -1,0 +1,101 @@
+[Please help publicize this opportunity in appropriate channels.]
+
+======================================================================
+-- PhD Position on SMT Reasoning
+-- Federal University of Rio Grande do Norte, Natal, RN, Brazil
+======================================================================
+
+Applications are invited for a PhD student position on SMT-solving in
+Computer Science at Federal University of Rio Grande do Norte (UFRN),
+Natal, RN, Brazil. The position is funded through a MEC/CAPES
+scholarship giving a BR$2.200 monthly stipend for up to four years.
+The student will carry out his/her research activities in the context
+of a collaboration between the research groups ForAll (Formal Methods
+and Languages Laboratory, "http://sites.google.com/site/forallufrn"),
+at UFRN, and VeriDis (Verification of Distributed Systems,
+"http://veridis.loria.fr") at LORIA/Inria, Nancy, France. This
+collaboration is supported by a STIC AmSud project that also involves
+the LIIS group (Logics, Interaction and Intelligent Systems,
+"http://liis.famaf.unc.edu.ar") from FaMAF at Universidad Nacional de
+Cordoba, Argentina.
+
+Information about the position can be given by David Deharbe
+("mailto:david@dimap.ufrn.br").
+
+The application is open until the Graduate Program has filled the
+available positions. The full application process is available at
+"http://www.posgraduacao.ufrn.br/ppgsc”.
+
+Subject Area
+------------
+
+SMT solving is an automatic theorem proving technique that integrates
+efficient Boolean reasoning with specialized decision procedures for
+different first-order logics such as equality and linear arithmetics
+with quantifier instantiation heuristics such as E-matching and
+model-based instantiation.
+
+SMT solvers are used in practice for program verification, application
+of formal methods, hardware design, compilers, interactive theorem
+proving, etc. So, doing research on SMT solving is not just about
+theory: it also needs excellent programming skills to implement
+original ideas and validate them experimentally in such application
+contexts.
+
+Our group has been studying and developing techniques for SMT solving
+for more than a decade. We use our SMT solver veriT
+("http://www.verit-solver.org") as an experimental test-bed for the
+evaluation of our ideas. Our group has been involved in the creation
+of the SMT plug-in for Rodin, an Eclipse-based environment for system
+modeling in Event-B.
+
+For the application process, the candidate should elaborate and submit
+a research project that clearly identifies the aspects of SMT solving
+(e.g. novel combination techniques, specific decision procedures,
+original application domains) that are to be addressed. We advise the
+candidates to contact us to discuss this with us.
+
+Research Environment
+--------------------
+
+UFRN main campus is located in the east side of Natal, next to the
+Dunes Park, a large natural reserve. UFRN is an important university
+in Brazil, and has departments in almost all areas. DIMAp, the
+Department of Informatics and Applied Mathematics, has undergraduate
+courses in Computer Science and Software Engineering and a graduate
+program in systems and computing, delivering both Master and Doctoral
+degrees. The program has been awarded a grade 5 by CAPES, ranking it
+amongst the top 20% computer science programs in Brazil, and offers
+research opportunities in the areas of Programming Languages and
+Formal Methods, Experimental Algorithms, Software Engineering, Image
+Processing and Computer Graphics, Foundations of Computing, Integrated
+and Distributed Systems. More informations on this program can be
+found at the following URL: "http://www.posgraduacao.ufrn.br/ppgsc".
+
+The research will be carried out in the context of the international
+cooperation with the teams VeriDis and LIIS. It is expected that the
+student interact with our partner, including through long stays at
+partner institutions (e.g. through programs such as Science Without
+Borders).
+
+Qualifications Required
+-----------------------
+
+The candidates should have a Master of Science in Computer Science,
+Computer Engineering, or equivalent. Experience in mathematical logic,
+automated reasoning, and formal methods is desirable, as are good
+implementation skills.
+
+The duration of the course is for a maximum of four years and include
+other duties such as obtaining course credits (including some teaching
+activities) and foreign languages fluency certificates.  Good skills
+in spoken and written English are a requirement.
+
+About Natal
+-----------
+
+Natal is the capital city of the state of Rio Grande do Norte. It is
+located in the Northeastern-most part of Brazil, 5º south of the
+equator. It is a coastal city with kilometers of beaches, making it a
+favorite tourist destination. More informations can be obtained at
+"http://en.wikipedia.org/wiki/Natal,_Rio_Grande_do_Norte".
