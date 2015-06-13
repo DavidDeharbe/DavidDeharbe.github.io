@@ -1,0 +1,910 @@
+{
+    "article": [
+        {
+            "author": "Areces, Carlos and D{\\'e}harbe, David and Fontaine, Pascal and Orbe, Ezequiel",
+            "id": "areces2013symt",
+            "journal": "SMT Workshop 2013 11th International Workshop on Satisfiability Modulo Theories",
+            "title": "SyMT: finding symmetries in SMT formulas",
+            "type": "article",
+            "year": "2013"
+        },
+        {
+            "author": "Barbosa, Haniel and D{\\'e}harbe, David",
+            "id": "barbosa2011towards",
+            "journal": "14th Brazilian Symposium on Formal Methods: Short Papers, S{\\~a}o Paulo-SP",
+            "title": "Towards formal verification of PLC programs",
+            "type": "article",
+            "year": "2011"
+        },
+        {
+            "author": "Bonichon, Richard and D{\\'e}harbe, David and Tavares, Cl{\\'a}udia",
+            "id": "bonichon2014extending",
+            "journal": "SMT 2014 12th International Workshop on Satisfiability Modulo Theories",
+            "pages": "53",
+            "title": "Extending Smt-Lib v2 with $\\lambda$-Terms and Polymorphism",
+            "type": "article",
+            "year": "2014"
+        },
+        {
+            "author": "Cavalcanti, Ana and D{\\'e}harbe, David",
+            "id": "cavalcanti2012special",
+            "journal": "Theoretical Computer Science",
+            "pages": "1",
+            "publisher": "Elsevier",
+            "title": "Special issue: International Colloquium on Theoretical Aspects of Computing\u2014ICTAC 2010",
+            "type": "article",
+            "volume": "455",
+            "year": "2012"
+        },
+        {
+            "author": "Costa, Umberto S and Moreira, Anamaria M and D{\\'e}harbe, David",
+            "id": "costa2000cache",
+            "journal": "Proceedings of SBAC-PAD",
+            "pages": "99--104",
+            "title": "A cache-based parallel genetic algorithm for the bdd variable ordering problem",
+            "type": "article",
+            "year": "2000"
+        },
+        {
+            "author": "Costa, Umberto S and Moreira, Anamaria M and D{\\'e}harbe, David and Nova, Lagoa",
+            "id": "costa2001advances",
+            "publisher": "Citeseer",
+            "title": "Advances in BDD reduction using Parallel Genetic Algorithms",
+            "type": "article",
+            "year": "2001"
+        },
+        {
+            "author": "Costa, Umberto and Campos, S{\\'e}rgio and Vieira, Newton and D{\\'e}harbe, David",
+            "id": "costa2005explicit",
+            "journal": "Electronic Notes in Theoretical Computer Science",
+            "pages": "301--321",
+            "publisher": "Elsevier",
+            "title": "Explicit-symbolic modelling for formal verification",
+            "type": "article",
+            "volume": "130",
+            "year": "2005"
+        },
+        {
+            "author": "Couchot, J-F and D{\\'e}harbe, David and Giorgetti, Alain and Ranise, Silvio",
+            "id": "couchot2003scalable",
+            "journal": "Journal of the Brazilian Computer Society",
+            "number": "2",
+            "pages": "17--36",
+            "publisher": "SciELO Brasil",
+            "title": "Scalable automated proving and debugging of set-based specifications",
+            "type": "article",
+            "volume": "9",
+            "year": "2003"
+        },
+        {
+            "author": "Couchot, J-F and Dadeau, Fr{\\'e}d{\\'e}ric and D{\\'e}harbe, David and Giorgetti, Alain and Ranise, Silvio",
+            "id": "couchot2004proving",
+            "journal": "Electronic Notes in Theoretical Computer Science",
+            "pages": "189--208",
+            "publisher": "Elsevier",
+            "title": "Proving and debugging set-based specifications",
+            "type": "article",
+            "volume": "95",
+            "year": "2004"
+        },
+        {
+            "author": "Couchot, JF and D{\\'e}harbe, D and Giorgetti, A and Ranise, S",
+            "id": "couchot4barvey",
+            "journal": "AFADL",
+            "pages": "369--372",
+            "title": "Barvey: V{\\'e}rification automatique de consistance de machines abstraites B",
+            "type": "article",
+            "volume": "4"
+        },
+        {
+            "author": "Dantas, Bartira and D{\\'e}harbe, David and Galvao, SL and Moreira, AM and Medeiros Jr, VG",
+            "id": "dantas2008applying",
+            "journal": "Brazilian Symposium on Formal Methods, Salvador-BA",
+            "title": "Applying the B method to take on the grand challenge of verified compilation",
+            "type": "article",
+            "year": "2008"
+        },
+        {
+            "author": "Dantas, BP and D{\\'e}harbe, D and Galvao, SSL and Martins, A and Medeiros, VG",
+            "id": "dantas2008proposta",
+            "journal": "Semin{\\'a}rio Integrado de Software e Hardware, Bel{\\'e}m-PA",
+            "title": "Proposta e avalia{\\c{c}}ao de uma abordagem de desenvolvimento de software fidedigno por constru{\\c{c}}ao com o m{\\'e}todo B",
+            "type": "article",
+            "year": "2008"
+        },
+        {
+            "author": "Dantas, B and D{\\'e}harbe, D and Galvao, S and Moreira, A Martins and J{\\'u}nior, V Medeiros and Nova, Lagoa",
+            "id": "dantas2008proposta",
+            "journal": "SBC",
+            "pages": "195",
+            "title": "Proposta e Avalia{\\c{c}} ao de uma Abordagem de Desenvolvimento de Software Fidedigno por Constru{\\c{c}} ao com o M{\\'e}todo {B}",
+            "type": "article",
+            "year": "2008"
+        },
+        {
+            "author": "Dantas, Bartira and D{\\'e}harbe, David and Galv{\\~a}o, Stephenson and Moreira, Anamaria Martins and Medeiros, Val{\\'e}rio",
+            "id": "dantas2009verified",
+            "journal": "Electronic Notes in Theoretical Computer Science",
+            "pages": "79--96",
+            "publisher": "Elsevier",
+            "title": "Verified compilation and the b method: a proposal and a first appraisal",
+            "type": "article",
+            "volume": "240",
+            "year": "2009"
+        },
+        {
+            "author": "De Oliveira, Diego Caminha B and D{\\'e}harbe, David and Fontaine, Pascal",
+            "id": "de1979harvey",
+            "journal": "Actes de la 8e conf{\\'e}rence AFADL",
+            "number": "2",
+            "pages": "287",
+            "title": "haRVey: satisfaisabilit{\\'e} et th{\\'e}ories",
+            "type": "article",
+            "volume": "1",
+            "year": ""
+        },
+        {
+            "author": "De Oliveira, Diego Caminha B and D{\\'e}harbe, David and Fontaine, Pascal",
+            "id": "de2012combining",
+            "journal": "Science of Computer Programming",
+            "number": "4",
+            "pages": "518--532",
+            "publisher": "Elsevier",
+            "title": "Combining decision procedures by (model-) equality propagation",
+            "type": "article",
+            "volume": "77",
+            "year": "2012"
+        },
+        {
+            "author": "de Medeiros, S{\\'e}rgio Queiroz and D{\\'e}harbe, David",
+            "id": "debddmeter",
+            "title": "BDDmeter\u2014Uma Ferramenta para Visualiza{\\c{c}}{\\~a}o Din{\\^a}mica de BDDs",
+            "type": "article"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Wahba, Ayman",
+            "id": "deharbe1993design",
+            "journal": "Rapport de recherche- IMAG",
+            "publisher": "Institut d'informatique et de math{\\'e}matiques appliqu{\\'e}es de Grenoble",
+            "title": "Design error diagnosis in logic circuits using ternary test sets",
+            "type": "article",
+            "year": "1993"
+        },
+        {
+            "author": "Deharbe, David and Borrione, Dominique",
+            "id": "deharbe1993symbolic",
+            "publisher": "Citeseer",
+            "title": "Symbolic model checking of VHDL design entities",
+            "type": "article",
+            "year": "1993"
+        },
+        {
+            "author": "Deharbe, David and Borrione, Dominique",
+            "id": "deharbe1995artemis",
+            "journal": "Correct Hardware Design and Verification Methods: IFIP WG10. 5 Advanced Research Working Conference, CHARME'95, Frankfurt, Germany, October 1995. Proceedings",
+            "pages": "293",
+            "publisher": "Springer",
+            "title": "ARTEMIS-IMAG BP 53 F-38041 Grenoble Cedex 9, France",
+            "type": "article",
+            "year": "1995"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Moreira, Anamaria Martins",
+            "id": "deharbe1997using",
+            "journal": "CHARME",
+            "title": "Using induction and BDDs to model check invariants.",
+            "type": "article",
+            "volume": "97",
+            "year": "1997"
+        },
+        {
+            "author": "Deharbe, D and Shankar, S and Clarke, E",
+            "id": "deharbe1998formal",
+            "journal": "SBCCI: Proceedings of the 11 th Brazilian Symposium on Integrated circuit design",
+            "publisher": "Association for Computing Machinery, Inc, One",
+            "title": "Formal Verification of VHDL: The Model Checker CV",
+            "type": "article",
+            "year": "1998"
+        },
+        {
+            "author": "Deharbe, David and Moreira, Anamaria Martins and Ribeiro, Leila and Rodrigues, Vanderlei Moraes",
+            "id": "deharbe2000introduccao",
+            "journal": "RITA",
+            "number": "1",
+            "pages": "7--48",
+            "title": "Introdu{\\c{c}}{\\~a}o a M{\\'e}todos Formais: Especifica{\\c{c}}{\\~a}o, Sem{\\^a}ntica e Verifica{\\c{c}}{\\~a}o de Sistemas Concorrentes.",
+            "type": "article",
+            "volume": "7",
+            "year": "2000"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Ranise, Silvio",
+            "id": "deharbe2002bdd",
+            "title": "Bdd-driven first-order satisfiability procedures (extended version)",
+            "type": "article",
+            "year": "2002"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Dharbe, David and Ranise, Silvio",
+            "id": "deharbe2002bdd",
+            "publisher": "Citeseer",
+            "title": "BDD-driven first-order satisfiability procedures",
+            "type": "article",
+            "year": "2002"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Ranise, Silvio and Ringeissen, Christophe",
+            "id": "deharbe2005building",
+            "title": "Building, Combining, and Integrating Decision Procedures for Software Verification",
+            "type": "article",
+            "year": "2005"
+        },
+        {
+            "author": "D{\\'e}harbe, David",
+            "id": "deharbe2005elementos",
+            "journal": "DIMAp/UFRN",
+            "title": "Elementos de complexidade computacional",
+            "type": "article",
+            "volume": "19",
+            "year": "2005"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Ranise, Silvio",
+            "id": "deharbe2005t",
+            "journal": "IEEE/NASA ISoLA 2005",
+            "pages": "53",
+            "title": "T. Margaria, B. Steffen, and MG Hinchey",
+            "type": "article",
+            "year": "2005"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Gomes, Bruno Gurgel and Moreira, Anamaria Martins and Nova, Lagoa",
+            "id": "deharbe2006application",
+            "journal": "11th IEEE International Conference on Engineering of Complex Computer Systems (ICECCS 2006)",
+            "publisher": "Citeseer",
+            "title": "Application of the B method towards the automation of Java Card component development",
+            "type": "article",
+            "year": "2006"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Moreira, Anamaria Martins and Sena, Dem{\\'o}stenes",
+            "id": "deharbe2007agraphs",
+            "journal": "Electronic Communications of the EASST",
+            "title": "{Agraphs}: Definition, implementation and tools",
+            "type": "article",
+            "volume": "1",
+            "year": "2007"
+        },
+        {
+            "author": "Deharbe, David and Ranise, Silvio and Vidal, Jorgiano",
+            "id": "deharbe2007distributing",
+            "journal": "Electronic Notes in Theoretical Computer Science",
+            "pages": "21--37",
+            "publisher": "Elsevier",
+            "title": "Distributing the Workload in a Lazy Theorem-Prover",
+            "type": "article",
+            "volume": "184",
+            "year": "2007"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Ranise, Silvio and Vidal, Jorgiano",
+            "id": "deharbe2008prototype",
+            "journal": "Journal of the Brazilian Computer Society",
+            "number": "1",
+            "pages": "71--86",
+            "publisher": "SciELO Brasil",
+            "title": "A prototype implementation of a distributed satisfiability modulo theories solver in the ToolBus framework",
+            "type": "article",
+            "volume": "14",
+            "year": "2008"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Gomes, Bruno EG and Moreira, Anamaria M",
+            "id": "deharbe2009refining",
+            "journal": "arXiv preprint arXiv:0907.2039",
+            "title": "Refining interfaces: the case of the B method",
+            "type": "article",
+            "year": "2009"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Ranise, Silvio",
+            "id": "deharbe2009satisfiability",
+            "journal": "International journal on software tools for technology transfer",
+            "number": "3",
+            "pages": "255--260",
+            "publisher": "Springer-Verlag",
+            "title": "Satisfiability solving for software verification",
+            "type": "article",
+            "volume": "11",
+            "year": "2009"
+        },
+        {
+            "author": "Deharbe, David and Aranha, Eduardo and Leite, Jair and Oliveira, Marcel and Pires, Paulo and Kulesza, Uir{\\'a} and Costa, Umberto",
+            "id": "deharbe2010curso",
+            "journal": "FEES 2010",
+            "pages": "59",
+            "title": "O Curso de Engenharia de Software da UFRN",
+            "type": "article"
+        },
+        {
+            "author": "D{\\'e}harbe, David",
+            "id": "deharbe2013integration",
+            "journal": "Science of Computer Programming",
+            "number": "3",
+            "pages": "310--326",
+            "publisher": "Elsevier",
+            "title": "Integration of SMT-solvers in B and Event-B development environments",
+            "type": "article",
+            "volume": "78",
+            "year": "2013"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Guyot, Yoann and Voisin, Laurent",
+            "id": "deharbe2014integrating",
+            "journal": "Science of Computer Programming",
+            "pages": "130--143",
+            "publisher": "Elsevier",
+            "title": "Integrating SMT solvers in Rodin",
+            "type": "article",
+            "volume": "94",
+            "year": "2014"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Guyot, Yoann and Voisin, Laurent",
+            "id": "deharbe2014introduction",
+            "journal": "1st International Workshop about Sets and Tools (SETS 2014)",
+            "pages": "19",
+            "title": "Introduction to the Integration of SMT-Solvers in Rodin",
+            "type": "article",
+            "year": "2014"
+        },
+        {
+            "author": "Deharbe, David and Frappier, Marc and Lecomte, Thierry and Leuschel, Michael and Voisin, Laurent",
+            "id": "deharbe4",
+            "journal": "Integration of Tools for Rigorous Software Construction and Analysis",
+            "pages": "92",
+            "title": "B and Event-B Models for Distributed Termination",
+            "type": "article"
+        },
+        {
+            "author": "D{\\'e}harbe, D and Shankar, S and Clarke, E",
+            "id": "deharbeformal",
+            "title": "Formal Verification of VHDL {\\^A}$3/4$ The Model Checker CV",
+            "type": "article"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Moreira, A Martins and Merz, Stephan and de Oliveira, A Santana",
+            "id": "deharbetowards",
+            "title": "Towards automating proofs for model-based software engineering",
+            "type": "article"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fejoz, Lo{\\i}c and Fontaine, Pascal and Merz, Stephan",
+            "id": "deharbeverified",
+            "title": "Verified Incremental Development of Lock-Free Algorithms",
+            "type": "article"
+        },
+        {
+            "author": "de Oliveira, Anderson Santana and D{\\'e}harbe, David and Moreau, Pierre-Etienne",
+            "id": "deverification",
+            "title": "V{\\'e}rification automatique de syst{\\`e}mes {\\`a} base de r{\\`e}gles avec le narrowing strat{\\'e}gique",
+            "type": "article"
+        },
+        {
+            "author": "Galvao, S and D{\\'e}harbe, D and J{\\'u}nio, V Medeiros and Moreira, A Martins and Nova, Lagoa",
+            "id": "galvaomodelagem",
+            "title": "Modelagem do Sistema Operacional de Tempo Real {FreeRTOS} para um Desenvolvimento de Sistemas de Tempo Real Fidedignos",
+            "type": "article"
+        },
+        {
+            "author": "Gomes, Bruno Emerson Gurgel and Moreira, Anamaria Martins and D{\\'e}harbe, David",
+            "id": "gomes2007developing",
+            "journal": "Electronic notes in theoretical computer science",
+            "pages": "81--96",
+            "publisher": "Elsevier",
+            "title": "Developing Java card applications with B",
+            "type": "article",
+            "volume": "184",
+            "year": "2007"
+        },
+        {
+            "author": "Gomes, Bruno EG and Moreira, Anamaria M and D{\\'e}harbe, David BP and Moraes, KK de O",
+            "id": "gomes2007ferramenta",
+            "journal": "XIV Sess{\\~a}o de Ferramentas--XXI SBES",
+            "title": "A ferramenta BSmart para o desenvolvimento rigoroso de aplica{\\c{c}}oes Java Card com o m{\\'e}todo formal B",
+            "type": "article",
+            "year": "2007"
+        },
+        {
+            "author": "Jr, Val{\\'e}rio Medeiros and D{\\'e}harbe, David",
+            "id": "jrexperiences",
+            "title": "Experiences in Modelling of a Microcontroller Instruction Set Using B",
+            "type": "article"
+        },
+        {
+            "author": "Jr, Val{\\'e}rio Medeiros and D{\\'e}harbe, David",
+            "id": "jrformal",
+            "title": "Formal Modelling of a Microcontroller Instruction Set in B",
+            "type": "article"
+        },
+        {
+            "author": "Leite, Jair and Lopes, Adilson and D{\\'e}harbe, David and Gouv{\\^e}a, Elizabeth and Cerqueira, Nilda",
+            "id": "leiteflexibilidade",
+            "title": "Flexibilidade e Transversalidade no Projeto Pedag{\\'o}gico para o Curso de Ci{\\^e}ncia da Computa{\\c{c}}{\\~a}o na UFRN",
+            "type": "article"
+        },
+        {
+            "author": "Lima, Gleydson and Moreira, Anamaria Martins and D{\\'e}harbe, David and Pereira, David and Sena, Demostenes and Vidal, Jorgiano",
+            "id": "lima2002ferus",
+            "journal": "Proceedings of SBES",
+            "pages": "1--6",
+            "title": "FERUS: um ambiente de desenvolvimento de especifica{\\c{c}}{\\~o}es CASL",
+            "type": "article",
+            "year": "2002"
+        },
+        {
+            "author": "Marinho, Eberton S and J{\\'u}nior, Val{\\'e}rio Medeiros and Deharbe, David",
+            "id": "marinho2007batcave",
+            "title": "Batcave: Uma Ferramenta de Suporte a Verifica{\\c{c}} ao Formal para o M{\\'e}todo B",
+            "type": "article",
+            "year": "2007"
+        },
+        {
+            "author": "Marinho, Eberton and Medeiros, Val{\\'e}rio and D{\\'e}harbe, David and Gomes, Bruno and Tavares, Cl{\\'a}udia",
+            "id": "marinhoferramenta",
+            "title": "A Ferramenta Batcave para a Verifica{\\c{c}} ao de Especifica{\\c{c}} oes Formais na Nota{\\c{c}} ao B",
+            "type": "article"
+        },
+        {
+            "author": "Martins Moreira, Anamaria and Ringeissen, Christophe and D{\\'e}harbe, David and Lima, Gleydson and others",
+            "id": "martins2002manipulating",
+            "title": "Manipulating Algebraic Specifications with Term-based and Graph-based Representations",
+            "type": "article",
+            "year": "2002"
+        },
+        {
+            "author": "Medeiros Jr, Val{\\'e}rio and D{\\'e}harbe, David",
+            "id": "medeiros2014beval",
+            "journal": "arXiv preprint arXiv:1401.0972",
+            "title": "BEval: A plug-in to extend Atelier B with current verification technologies",
+            "type": "article",
+            "year": "2014"
+        },
+        {
+            "author": "Moreira, Anamaria Martins and Gomes, Bruno Emerson Gurgel and D{\\'e}harbe, David",
+            "id": "moreiradeveloping",
+            "title": "Developing Java Card Applications with B",
+            "type": "article"
+        },
+        {
+            "author": "Ranise, Silvio and D{\\'e}harbe, David",
+            "id": "ranise2003applying",
+            "journal": "Electronic Notes in Theoretical Computer Science",
+            "number": "1",
+            "pages": "105--119",
+            "publisher": "Elsevier",
+            "title": "Applying light-weight theorem proving to debugging and verifying pointer programs",
+            "type": "article",
+            "volume": "86",
+            "year": "2003"
+        },
+        {
+            "author": "Ranise, Silvio and D{\\'e}harbe, David",
+            "id": "ranise2003light",
+            "journal": "Proc. FTP-2003, I. Dahn and L. Vigneron, Eds. Number DSCI--II710/03 in Technical Reports. Universidad Polit{\\'e}cnica de Valencia",
+            "pages": "119--132",
+            "title": "Light-weight theorem proving for debugging and verifying pointer manipulating programs",
+            "type": "article",
+            "year": "2003"
+        }
+    ],
+    "book": [
+        {
+            "author": "Cavalcanti, Ana and Deharbe, David and Gaudel, Marie-Claude and Woodcock, Jim",
+            "id": "cavalcanti2010theoretical",
+            "publisher": "Springer Science \\& Business Media",
+            "title": "Theoretical Aspects of Computing: 7th International Colloquium, Natal, Rio Grande Do Norte, Brazil, September 1-3, 2010, Proceedings",
+            "type": "book",
+            "volume": "6255",
+            "year": "2010"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Borrione, Dominique",
+            "id": "deharbe1995qualitative",
+            "publisher": "IMAG",
+            "title": "A qualitative finite subset of VHDL and semantics",
+            "type": "book",
+            "year": "1995"
+        },
+        {
+            "author": "Medeiros Jr, Val{\\'e}rio and Galv{\\~a}o, Stephenson and Deharbe, David",
+            "id": "medeiros2008modelagem",
+            "publisher": "EUFRN",
+            "title": "Modelagem de micro controladores em b",
+            "type": "book",
+            "volume": "1",
+            "year": "2008"
+        }
+    ],
+    "incollection": [
+        {
+            "author": "Barbosa, Haniel and D{\\'e}harbe, David",
+            "booktitle": "Formal Methods: Foundations and Applications",
+            "id": "barbosa2012approach",
+            "pages": "19--34",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "An approach using the {B}-method to formal verification of {PLC} programs in an industrial setting",
+            "type": "incollection",
+            "year": "2012"
+        },
+        {
+            "author": "Barbosa, Haniel and D{\\'e}harbe, David",
+            "booktitle": "Abstract State Machines, Alloy, B, VDM, and Z",
+            "id": "barbosa2012formal",
+            "pages": "353--356",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Formal verification of {PLC} programs using the {B} method",
+            "type": "incollection",
+            "year": "2012"
+        },
+        {
+            "author": "Bonichon, Richard and D{\\'e}harbe, David and Lecomte, Thierry and Medeiros Jr, Val{\\'e}rio",
+            "booktitle": "Formal Methods: Foundations and Applications",
+            "id": "bonichon2015llvm",
+            "pages": "1--16",
+            "publisher": "Springer International Publishing",
+            "title": "LLVM-Based Code Generation for B",
+            "type": "incollection",
+            "year": "2015"
+        },
+        {
+            "author": "Borrione, Dominique and Bouamama, H and Deharbe, David and Le Faou, C and Wahba, Ayman",
+            "booktitle": "Formal Methods in Computer-Aided Design",
+            "id": "borrione1996hdl",
+            "pages": "450--467",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "HDL-based integration of formal methods and CAD tools in the PREVAIL environment",
+            "type": "incollection",
+            "year": "1996"
+        },
+        {
+            "author": "Bouton, Thomas and De Oliveira, Diego Caminha B and D{\\'e}harbe, David and Fontaine, Pascal",
+            "booktitle": "Automated Deduction--CADE-22",
+            "id": "bouton2009verit",
+            "pages": "151--156",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "veriT: an open, trustable and efficient SMT-solver",
+            "type": "incollection",
+            "year": "2009"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Borrione, Dominique",
+            "booktitle": "Correct Hardware Design and Verification Methods",
+            "id": "deharbe1995semantics",
+            "pages": "293--310",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Semantics of a verification-oriented subset of VHDL",
+            "type": "incollection",
+            "year": "1995"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Borrione, Dominique",
+            "booktitle": "Model Generation in Electronic Design",
+            "id": "deharbe1995symbolic",
+            "pages": "105--126",
+            "publisher": "Springer US",
+            "title": "Symbolic Model Checking with Past and Future Temporal Modalities: Fundamentals and Algorithms",
+            "type": "incollection",
+            "year": "1995"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Shankar, Subash and Clarke, Edmund M",
+            "booktitle": "Formal Methods in Computer-Aided Design",
+            "id": "deharbe1998model",
+            "pages": "508--514",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Model checking VHDL with CV",
+            "type": "incollection",
+            "year": "1998"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Moreira, Anamaria Martins",
+            "booktitle": "FM\u201999\u2014Formal Methods",
+            "id": "deharbe1999symbolic",
+            "pages": "272--288",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Symbolic model checking with fewer fixpoint computations",
+            "type": "incollection",
+            "year": "1999"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Moreira, Anamaria Martins and Ringeissen, Christophe",
+            "booktitle": "Rewriting Techniques and Applications",
+            "id": "deharbe2002improving",
+            "pages": "207--221",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Improving symbolic model checking by rewriting temporal logic formulae",
+            "type": "incollection",
+            "year": "2002"
+        },
+        {
+            "author": "D{\\'e}harbe, David",
+            "booktitle": "Logic for concurrency and synchronisation",
+            "id": "deharbe2003tutorial",
+            "pages": "215--237",
+            "publisher": "Springer Netherlands",
+            "title": "A tutorial introduction to symbolic model checking",
+            "type": "incollection",
+            "year": "2003"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Imine, Abdessamad and Ranise, Silvio",
+            "booktitle": "Artificial Intelligence and Symbolic Computation",
+            "id": "deharbe2004abstraction",
+            "pages": "271--275",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Abstraction-driven verification of array programs",
+            "type": "incollection",
+            "year": "2004"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Ranise, Silvio and Ringeissen, Christophe",
+            "booktitle": "Theoretical Aspects of Computing-ICTAC 2006",
+            "id": "deharbe2006decision",
+            "pages": "366--370",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Decision procedures for the formal analysis of software",
+            "type": "incollection",
+            "year": "2006"
+        },
+        {
+            "author": "D{\\'e}harbe, David",
+            "booktitle": "Refinement Techniques in Software Engineering",
+            "id": "deharbe2006techniques",
+            "pages": "315--367",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Techniques for Temporal Logic Model Checking",
+            "type": "incollection",
+            "year": "2006"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Gomes, Bruno and Moreira, Anamaria",
+            "booktitle": "Abstract State Machines, B and Z",
+            "id": "deharbe2008bsmart",
+            "pages": "351--352",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "BSmart: A Tool for the Development of Java Card Applications with the B Method",
+            "type": "incollection",
+            "year": "2008"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Galv{\\~a}o, Stephenson and Moreira, Anamaria Martins",
+            "booktitle": "Formal Methods: Foundations and Applications",
+            "id": "deharbe2009formalizing",
+            "pages": "101--117",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Formalizing freertos: First steps",
+            "type": "incollection",
+            "year": "2009"
+        },
+        {
+            "author": "D{\\'e}harbe, David",
+            "booktitle": "Abstract State Machines, Alloy, B and Z",
+            "id": "deharbe2010automatic",
+            "pages": "217--230",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Automatic verification for a class of proof obligations with SMT-solvers",
+            "type": "incollection",
+            "year": "2010"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Merz, Stephan and Paleo, Bruno Woltzenlogel",
+            "booktitle": "Automated Deduction--CADE-23",
+            "id": "deharbe2011exploiting",
+            "pages": "222--236",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Exploiting symmetry in SMT problems",
+            "type": "incollection",
+            "year": "2011"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Guyot, Yoann and Voisin, Laurent",
+            "booktitle": "Abstract State Machines, Alloy, B, VDM, and Z",
+            "id": "deharbe2012smt",
+            "pages": "194--207",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "SMT solvers for Rodin",
+            "type": "incollection",
+            "year": "2012"
+        },
+        {
+            "author": "Gomes, Bruno and D{\\'e}harbe, David and Moreira, Anamaria and Moraes, Katia",
+            "booktitle": "Abstract State Machines, Alloy, B and Z",
+            "id": "gomes2010applying",
+            "pages": "203--216",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Applying the B method for the rigorous development of smart card applications",
+            "type": "incollection",
+            "year": "2010"
+        },
+        {
+            "author": "Gurgel, Alessandro Cavalcante and de Medeiros Jr, Val{\\'e}rio Gutemberg and Oliveira, Marcel Vinicius Medeiros and D{\\'e}harbe, David Boris Paul",
+            "booktitle": "Abstract State Machines, Alloy, B and Z",
+            "id": "gurgel2010integrating",
+            "pages": "412--413",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Integrating {SMT}-solvers in {Z} and {B} Tools",
+            "type": "incollection",
+            "year": "2010"
+        },
+        {
+            "author": "Medeiros Jr, Val{\\'e}rio and D{\\'e}harbe, David",
+            "booktitle": "Formal Methods: Foundations and Applications",
+            "id": "medeiros2009formal",
+            "pages": "282--289",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Formal modelling of a microcontroller instruction set in B",
+            "type": "incollection",
+            "year": "2009"
+        },
+        {
+            "author": "Oliveira, Marcel Vinicius Medeiros and D{\\'e}harbe, David BP and Cruz, Lu{\\'\\i}s CDS",
+            "booktitle": "Formal Methods, Foundations and Applications",
+            "id": "oliveira2011b",
+            "pages": "44--59",
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "B to CSP migration: towards a formal and automated model-driven engineering of hardware/software co-design",
+            "type": "incollection",
+            "year": "2011"
+        }
+    ],
+    "inproceedings": [
+        {
+            "author": "Borrione, Dominique and Deharbe, H and Eveking, Hans and Horeth, Stefan",
+            "booktitle": "Correct-Hardware-Design-Methodologies.-Proceedings-of-the-Advanced-Research-Workshop.",
+            "id": "borrione1992application",
+            "organization": "North-Holland, Amsterdam, Netherlands",
+            "pages": "385--400",
+            "title": "Application of a BDD-package to the verification of HDL descriptions",
+            "type": "inproceedings",
+            "year": "1992"
+        },
+        {
+            "author": "Bouton, Thomas and Caminha, Diego and D{\\'e}harbe, David and Fontaine, Pascal",
+            "booktitle": "PAAR@ IJCAR",
+            "id": "bouton2010gridtpt",
+            "pages": "33--39",
+            "title": "GridTPT: a distributed platform for Theorem Prover Testing.",
+            "type": "inproceedings",
+            "year": "2010"
+        },
+        {
+            "author": "Costa, Umberto S and D{\\'e}harbe, David and Moreira, Anamaria Martins",
+            "booktitle": "PDPTA",
+            "id": "costa2000variable",
+            "title": "Variable Ordering of BDDs with Parallel Genetic Algorithms.",
+            "type": "inproceedings",
+            "year": "2000"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Vidal, Jorgiano M{\\'a}rcio Bruno",
+            "booktitle": "Integrated Circuits and Systems Design, 2001, 14th Symposium on.",
+            "id": "deharbe2001optimizing",
+            "organization": "IEEE",
+            "pages": "64--69",
+            "title": "Optimizing BDD-based verification analysing variable dependencies",
+            "type": "inproceedings",
+            "year": "2001"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Ranise, Silvio",
+            "booktitle": "Software Engineering and Formal Methods, 2003. Proceedings. First International Conference on",
+            "id": "deharbe2003light",
+            "organization": "IEEE",
+            "pages": "220--228",
+            "title": "Light-weight theorem proving for debugging and verifying units of code",
+            "type": "inproceedings",
+            "year": "2003"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Medeiros, Sergio",
+            "booktitle": "Proceedings of the 19th annual symposium on Integrated circuits and systems design",
+            "id": "deharbe2006aspect",
+            "organization": "ACM",
+            "pages": "119--124",
+            "title": "Aspect-oriented design in systemC: implementation and applications",
+            "type": "inproceedings",
+            "year": "2006"
+        },
+        {
+            "author": "Deharbe, David and Gomes, Bruno Gurgel and Moreira, Anamaria Martins",
+            "booktitle": "Engineering of Complex Computer Systems, 2006. ICECCS 2006. 11th IEEE International Conference on",
+            "id": "deharbe2006automation",
+            "organization": "IEEE",
+            "pages": "10--pp",
+            "title": "Automation of Java Card component development using the B method",
+            "type": "inproceedings",
+            "year": "2006"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and others",
+            "booktitle": "Automatic Verification of Critical Systems-AVoCS 2006",
+            "id": "deharbe2006harvey",
+            "pages": "152--156",
+            "title": "haRVey: combining reasoners",
+            "type": "inproceedings",
+            "year": "2006"
+        },
+        {
+            "author": "D{\\'e}harbe, David and Fontaine, Pascal and Moreira, Anamaria Martins and Merz, Stephan and De Oliveira, Anderson Santana and others",
+            "booktitle": "Colloque d'Informatique: Br{\\'e}sil/INRIA (COLIBRI)",
+            "id": "deharbe2009automating",
+            "pages": "22--27",
+            "title": "Automating model-based software engineering",
+            "type": "inproceedings",
+            "year": "2009"
+        },
+        {
+            "author": "Deharbe, David and Fontaine, Pascal and Paleo, Bruno Woltzenlogel and others",
+            "booktitle": "First International Workshop on Proof eXchange for Theorem Proving-PxTP 2011",
+            "id": "deharbe2011quantifier",
+            "title": "Quantifier inference rules for SMT proofs",
+            "type": "inproceedings",
+            "year": "2011"
+        },
+        {
+            "author": "Deharbe, David and Fontaine, Pascal and Le Berre, Daniel and Mazure, Bertrand",
+            "booktitle": "Formal Methods in Computer-Aided Design (FMCAD), 2013",
+            "id": "deharbe2013computing",
+            "organization": "IEEE",
+            "pages": "46--52",
+            "title": "Computing prime implicants",
+            "type": "inproceedings",
+            "year": "2013"
+        },
+        {
+            "author": "Vidal, Jorgiano and D{\\'e}harbe, David and Borrione, Dominique",
+            "booktitle": "IWLS",
+            "id": "vidal2002improving",
+            "pages": "73--77",
+            "title": "Improving Static Ordering of BDDs for Reachability Analysis.",
+            "type": "inproceedings",
+            "year": "2002"
+        },
+        {
+            "author": "Wahba, Ayman",
+            "booktitle": "Proc. 26th Design Automation Conference",
+            "id": "wahba1993design",
+            "title": "Design Error Diagnosis in Logic Circuits using Ternary Test Sets",
+            "type": "inproceedings",
+            "year": "1993"
+        }
+    ],
+    "phdthesis": [
+        {
+            "author": "da Costa, Umberto Souza",
+            "id": "da2000ordenacao",
+            "school": "Universidade Federal do Rio Grande do Norte",
+            "title": "Ordenacao DE Vari AVEIS DE BDD S Utilizando Algoritmos Gen ETICOS Paralelos",
+            "type": "phdthesis",
+            "year": "2000"
+        },
+        {
+            "author": "Deharbe, David",
+            "id": "deharbe1996verification",
+            "title": "V{\\'e}rification formelle de propri{\\'e}t{\\'e}s temporelles: {\\'e}tude et application au langage VHDL",
+            "type": "phdthesis",
+            "year": "1996"
+        }
+    ],
+    "techreport": [
+        {
+            "author": "Dantas, Bartira and D{\\'e}harbe, David and Galv{\\~a}o, Stephenson and J{\\'u}nior, Val{\\'e}rio Medeiros and Moreira, Anamaria Martins",
+            "id": "dantas2008verified",
+            "institution": "Technical Report UFRN-DIMAp-2008-101-RT, UFRN-DIMAp",
+            "title": "Verified compilation based on the B method: an initial appraisal (extended version)",
+            "type": "techreport",
+            "year": "2008"
+        }
+    ]
+}
