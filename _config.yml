@@ -1,4 +1,4 @@
-name: David Deharbe
+name: David Déharbe
 markdown: redcarpet
 highlighter: pygments
 permalink: /blog/:year/:month/:day/:title.html
