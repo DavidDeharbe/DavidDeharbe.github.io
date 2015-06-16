@@ -1,0 +1,26 @@
+---
+layout: default
+title: Services
+sitemap:
+    priority: 0.9
+    changefreq: monthly
+---
+
+<div class="alert alert-danger">
+    This page only contains professional services since 2014.
+</div>
+
+<div class="list-group">
+{% assign sorted_services = site.services | sort: 'year' %}
+{% for service in sorted_services reversed %}
+<a {% if service.link %} href="{{ service.link }}" {% endif %}
+  class="list-group-item">
+  {{ service.entity }}.
+  {{ service.nature}}, 
+  {{ service.year }}.
+  {% if service.link %}
+    <span class="glyphicon glyphicon-link"></span>
+  {% endif %}
+  </a>
+{% endfor %}
+</div>
