@@ -7,20 +7,26 @@ sitemap:
 ---
 
 <div class="alert alert-danger">
-    This page only contains professional services since 2014.
+  This page only contains professional services since 2012.
 </div>
 
+{% assign collection = site.services | group_by: "year" %}
+
+{% for group in collection reversed %}
+
+<h4>{{ group.name }}</h4>
+
 <div class="list-group">
-{% assign sorted_services = site.services | sort: 'year' %}
-{% for service in sorted_services reversed %}
-<a {% if service.link %} href="{{ service.link }}" {% endif %}
-  class="list-group-item">
-  {{ service.entity }}.
-  {{ service.nature}}, 
-  {{ service.year }}.
-  {% if service.link %}
+
+  {% for service in group.items %}
+  <a {% if service.link %} href="{{ service.link }}" {% endif %}
+    class="list-group-item">
+    <i>{{ service.entity }}</i>;
+    <strong>{{ service.nature }}</strong>.
+    {% if service.link %}
     <span class="glyphicon glyphicon-link"></span>
-  {% endif %}
+    {% endif %}
   </a>
-{% endfor %}
+  {% endfor %}
 </div>
+{% endfor %}
