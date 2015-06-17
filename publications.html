@@ -1,0 +1,41 @@
+---
+layout: default
+title: Publications
+sitemap:
+    priority: 0.9
+    changefreq: monthly
+---
+
+<div class="alert alert-danger">
+  This page only contains journal papers.
+</div>
+
+{% assign collection = site.publications | group_by: "type" %}
+
+{% for group in collection %}
+
+{% if group.name == 'article' %}
+
+<h4>Journal papers <span class="badge">{{ group.items | size }}</span></h4>
+
+{% else %}
+
+<h4>{{ group.name }}</h4>
+
+{% endif %}
+<div class="list-group">
+
+  {% for publication in group.items reversed %}
+  <a class="list-group-item">
+    {{ publication.authors | join: ', ' }}.
+    <strong>{{ publication.title }}</strong>.
+    {{ publication.journal }},
+    volume {{ publication.volume }}, pages {{ publication.pages }}.
+    Published {{ publication.date | date: "%d %B %Y" }}. <br />
+    {% if publication.note %}
+    <i>{{ publication.note }}</i>
+    {% endif %}
+  </a>
+  {% endfor %}
+</div>
+{% endfor %}
