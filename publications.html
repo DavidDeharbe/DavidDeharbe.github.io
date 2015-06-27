@@ -7,16 +7,24 @@ sitemap:
 ---
 
 <div class="alert alert-danger">
-  This page only contains journal papers.
+  Currently, this page only display journal papers and technical reports.
 </div>
 
 {% assign collection = site.publications | group_by: "type" %}
 
 {% for group in collection %}
 
-{% if group.name == 'article' %}
+{% if group.name == 'inproceedings' %}
+
+<h4>Conference proceedings (in construction)</h4>
+
+{% elsif group.name == 'article' %}
 
 <h4>Journal papers <span class="badge">{{ group.items | size }}</span></h4>
+
+{% elsif group.name == 'report' %}
+
+<h4>Technical Reports <span class="badge">{{ group.items | size }}</span></h4>
 
 {% else %}
 
@@ -29,9 +37,23 @@ sitemap:
   <a class="list-group-item">
     {{ publication.authors | join: ', ' }}.
     <strong>{{ publication.title }}</strong>.
-    {{ publication.journal }},
-    volume {{ publication.volume }}, pages {{ publication.pages }}.
-    Published {{ publication.date | date: "%d %B %Y" }}. <br />
+    {% if group.name == 'article' %}
+      {% if publication.journal %} {{ publication.journal }}, {% endif %}
+      {% if publication.note %} volume {{ publication.volume }}, {% endif %}
+      {% if publications.pages %} pages {{ publication.pages }}. {% endif %}
+      {% if publications.date %} Published {{ publication.date | date: "%d %B %Y" }}.  {% endif %} 
+    {% elsif group.name == 'report' %}
+      {% if publication.institution %} {{ publication.institution }}, {% endif %}
+      {% if publication.number %} {{ publication.number }}, {% endif %}
+      {% if publication.year %} {{ publication.year }}. {% endif %}
+    {% elsif group.name == 'inproceedings' %}
+      {% if publication.booktitle %} In Proc. {{ publication.booktitle }}. {% endif %} 
+      {% if publication.editors %} {{ publication.editors | join: ', ' }} editors. {% endif %}
+      {% if publication.pages %} Pages {{ publication.pages }}. {% endif %}
+      {% if publication.date %} {{ publication.date | date: "%d %B %Y" }}.  {% endif %} 
+      {% if publication.local %} {{ publication.local }}.  {% endif %} 
+    {% else %}
+    {% endif %}
     {% if publication.note %}
     <i>{{ publication.note }}</i>
     {% endif %}
