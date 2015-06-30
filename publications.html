@@ -72,6 +72,7 @@ sitemap:
     {% endif %}
     {% if publication.resource %}
     {% if publication.resource.type == 'doi' %} <a href="http://dx.doi.org/{{ publication.resource.value }}">doi: {{ publication.resource.value }}</a>
+    {% elsif publication.resource.type == 'url' %} <a href="{{ publication.resource.value }}">{{ publication.resource.value }}</a>
     {% endif %}
     {% endif %}
   </li>
