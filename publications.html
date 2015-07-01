@@ -55,17 +55,22 @@ sitemap:
     {% elsif group.name == 'inproceedings' %}
       {% if publication.booktitle %} In Proc. {{ publication.booktitle }}. {% endif %} 
       {% if publication.editors %} Edited by {{ publication.editors | join: ', ' }}. {% endif %}
+      {% if publication.series %} {{ publication.series }}, {% endif %}
+      {% if publication.volume %} volume {{ publication.volume }}{% endif %}
       {% if publication.pages %} Pages {{ publication.pages }}. {% endif %}
       {% if publication.date %} {{ publication.date | date: "%d %B %Y" }}.  {% endif %} 
       {% if publication.local %} {{ publication.local }}.  {% endif %} 
     {% elsif group.name == 'chapter' %}
       {{ publication.booktitle }}.
       {% if publication.series %} {{ publication.series }}, {% endif %}
-      {% if publication.volume %} volume {{ publication.volume }}{% endif %}
+      {% if publication.volume %} volume {{ publication.volume }}, {% endif %}
       {% if publications.pages %}, p. {{ publication.pages }}.{% endif %}.
       {% if publication.editors %}Edited by {{ publication.editors | join: ', ' }}. {% endif %}
       {% if publications.year %} {{ publication.year }}.  {% endif %} 
       {% if publications.isbn %} ISBN {{ publication.isbn }}.  {% endif %} 
+    {% endif %}
+    {% if publication.publisher %}
+    {{ publication.publisher }}.
     {% endif %}
     {% if publication.note %}
     <i>{{ publication.note }}.</i>
