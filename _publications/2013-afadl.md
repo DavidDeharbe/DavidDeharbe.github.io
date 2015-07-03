@@ -6,6 +6,7 @@ authors:
   - Pascal Fontaine
 title: "Le solveur SMT veriT"
 booktitle: "Approches Formelles dans l'Assistance au Développement de Logiciels (AFADL 2013)"
+workshop: true
 editors:
   - Jeanine Souquières
   - Virgine Wiels

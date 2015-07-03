@@ -7,6 +7,7 @@ authors:
   - Bertrand Mazure
 title: "Computing prime implicants"
 booktitle: "Proc 13th International Conference on Formal Methods in Computer-Aided Design (FMCAD 2013)"
+workshop: false
 editors:
   - Barbara Jobstmann
   - Sandip Ray
