@@ -22,11 +22,11 @@ sitemap:
 
     {% if subgroup.name == 'false' %}
 
-    <h4>In conference proceedings (in construction)</h4>
+    <h4>Papers in Conference Proceedings (in construction)</h4>
 
     {% else %}
 
-    <h4>In workshop proceedings (in construction)</h4>
+    <h4>Papers In Workshop Proceedings (in construction)</h4>
 
     {% endif %}
 
@@ -61,7 +61,7 @@ sitemap:
 
     {% if group.name == 'article' %}
 
-      <h4>Journal papers <span class="badge">{{ group.items | size }}</span></h4>
+      <h4>Journal Papers <span class="badge">{{ group.items | size }}</span></h4>
 
     {% elsif group.name == 'report' %}
 
