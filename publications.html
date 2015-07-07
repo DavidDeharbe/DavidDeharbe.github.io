@@ -43,6 +43,7 @@ sitemap:
           {% if publication.volume %} volume {{ publication.volume }}{% endif %}
           {% if publication.pages %} Pages {{ publication.pages }}. {% endif %}
           {% if publication.date %} {{ publication.date | date: "%d %B %Y" }}.  {% endif %} 
+          {% if publication.year %} {{ publication.year }}.  {% endif %} 
           {% if publication.local %} {{ publication.local }}.  {% endif %} 
           {% if publication.publisher %}{{ publication.publisher }}.{% endif %}
           {% if publication.note %}<i>{{ publication.note }}.</i>{% endif %}
