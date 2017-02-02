@@ -7,6 +7,7 @@ authors:
 title: "Interfacing Automatic Proof Agents in Atelier B: Introducing \"iapa\""
 booktitle: "Proceedings of the Third Workshop on Formal Integrated Development Environment",
 series: "Electronic Proceedings in Theoretical Computer Science"
+workshop: true
 date: 2017-01-07
 volume: "240"
 pages: 82-90
@@ -18,4 +19,5 @@ editors:
 resource:
   type: doi
   value: 10.4204/EPTCS.240.6
+note: "A satellite workshop of FM2016"
 ---
