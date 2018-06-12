@@ -104,7 +104,6 @@ sitemap:
             {% if publication.institution %} {{ publication.institution }}, {% endif %}
             {% if publication.kind %} {{ publication.kind }}, {% endif %}
             {% if publication.year %} {{ publication.year }}. {% endif %}
-            {% if publication.note %} {{ publication.note }}. {% endif %}
           {% elsif group.name == 'inproceedings' %}
             {% if publication.booktitle %} In Proc. {{ publication.booktitle }}. {% endif %} 
             {% if publication.editors %} Edited by {{ publication.editors | join: ', ' }}. {% endif %}
