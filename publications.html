@@ -68,6 +68,10 @@ sitemap:
 
       <h4>Technical Reports <span class="badge">{{ group.items | size }}</span></h4>
 
+    {% elsif group.name == 'thesis' %}
+
+      <h4>Thesis <span class="badge">{{ group.items | size }}</span></h4>
+
     {% elsif group.name == 'chapter' %}
 
       <h4>Book Chapters <span class="badge">{{ group.items | size }}</span></h4>
@@ -96,6 +100,11 @@ sitemap:
             {% if publication.institution %} {{ publication.institution }}, {% endif %}
             {% if publication.number %} {{ publication.number }}, {% endif %}
             {% if publication.year %} {{ publication.year }}. {% endif %}
+          {% elsif group.name == 'thesis' %}
+            {% if publication.institution %} {{ publication.institution }}, {% endif %}
+            {% if publication.kind %} {{ publication.kind }}, {% endif %}
+            {% if publication.year %} {{ publication.year }}. {% endif %}
+            {% if publication.note %} {{ publication.note }}. {% endif %}
           {% elsif group.name == 'inproceedings' %}
             {% if publication.booktitle %} In Proc. {{ publication.booktitle }}. {% endif %} 
             {% if publication.editors %} Edited by {{ publication.editors | join: ', ' }}. {% endif %}
